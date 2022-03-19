@@ -1,0 +1,12 @@
+{
+  "name": "my-compiler",
+  "version": "1.0.0",
+  "description": "do compiler myself",
+  "main": "index.js",
+  "author": "renwangyu",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.16.6",
+    "acorn": "^8.6.0"
+  }
+}
